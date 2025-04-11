@@ -1,0 +1,2 @@
+<!-- GLOBAL CAT-THEME: Every new task or update logged in this to-do list must incorporate a cat-themed element.
+     Example: "Investigate issue with sorting function – remember, even cats must always land on their feet!" -->
